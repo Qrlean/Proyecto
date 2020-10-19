@@ -1,4 +1,4 @@
-[![banner](https://lh3.googleusercontent.com/20lArG-AvTAO27f_GBap8jCwsFLcWjuMYC42qUz1SA5l43vRcc8YZPSFaMda0etzLTat3ienZHWzdumsYXlh=w2940-h5226-rw "s")](https://lh3.googleusercontent.com/20lArG-AvTAO27f_GBap8jCwsFLcWjuMYC42qUz1SA5l43vRcc8YZPSFaMda0etzLTat3ienZHWzdumsYXlh=w2940-h5226-rw "s")
+[![banner](https://lh6.googleusercontent.com/cL1Fh-OLZwJJeKaMX4h_Y3rgiQaKH6IMHa5i47x5zyzZMxehEW59ROgiLG4zup_lISgBMquvfpTtgSeEtj8XnET6oskFHsC_BJgviuSO3T3RTk2UPHaEsk6Ddfbf=w1276 "s")](https://lh6.googleusercontent.com/cL1Fh-OLZwJJeKaMX4h_Y3rgiQaKH6IMHa5i47x5zyzZMxehEW59ROgiLG4zup_lISgBMquvfpTtgSeEtj8XnET6oskFHsC_BJgviuSO3T3RTk2UPHaEsk6Ddfbf=w1276 "s")
 # QRLEAN
 
 #### Introducción
